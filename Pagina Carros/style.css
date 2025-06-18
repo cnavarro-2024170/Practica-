@@ -1,0 +1,67 @@
+.texto-bugatti,.texto-ferrari,.texto-porche{
+    color: black;
+}
+
+.ferrari,
+.chiron,.porche{
+    width: 400px;
+    height: 325px;
+    background-color: burlywood;
+    text-align: center;
+    border-radius: 15%;
+    padding: 1%;
+    margin: 5%;
+    display: inline-block;
+}
+
+.Bugatti{
+    width: 100px;
+    background-color:aliceblue;
+    color: black;
+    border-radius: 20%;
+    display: inline-block;
+}
+.Ferrari{
+    width: 100px;
+    background-color:aliceblue;
+    color: black;
+    border-radius: 20%;
+    display: inline-block;
+}
+.Porche{
+    width: 100px;
+    background-color:aliceblue;
+    color: black;
+    border-radius: 20%;
+    display: inline-block;
+}
+
+.chiron:hover{
+    background-color: rgb(92, 92, 231);
+}
+
+.ferrari:hover{
+    background-color:firebrick;
+}
+
+.porche:hover{
+    background-color:darkgray;
+}
+
+.encabezado{
+    width: 100%;              
+    max-width: 900px;         
+    margin: auto;             
+    padding: 1em;
+    background-color:lightsteelblue;
+    border-radius: 15px;
+    box-sizing: border-box;   
+    text-align: center;
+    display: inline-block;
+    text-decoration-color: aliceblue;
+}
+
+.ima-chiron,.ima-ferrari,.ima-porche{
+    border-radius: 10%;
+    
+}
